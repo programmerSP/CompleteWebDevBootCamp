@@ -1,0 +1,3 @@
+#! /bin/bash
+cd
+./startup_script.sh
